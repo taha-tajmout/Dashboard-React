@@ -79,9 +79,7 @@ dashboard-react/
 - Les composants (`StatsBar`, `UserForm`, `UserTable`) reçoivent leurs données par props et ne dépendent pas des pages, donc ils sont réutilisables.
 - `UserForm` sert à la fois pour l'ajout et la modification.
 
-## Captures d'écran
 
-Les captures sont dans le dossier `screenshots/`.
 
 ## Pistes d'amélioration
 
