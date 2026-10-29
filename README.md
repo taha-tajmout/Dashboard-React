@@ -28,7 +28,7 @@ Il n'y a pas de back-end ni de base de données, comme ce n'est pas demandé dan
 ## Installation
 
 ```bash
-git clone <URL-DU-DEPOT>
+git clone [<URL-DU-DEPOT>](https://github.com/taha-tajmout/Dashboard-React.git)
 cd ProjetSeomaniak_React
 npm install
 npm run dev
